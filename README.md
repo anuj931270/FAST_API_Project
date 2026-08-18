@@ -58,7 +58,6 @@ The frontend provides the user interface through which users can interact with t
 
 * HTML
 * CSS
-* JavaScript
 * Flask/Jinja Templates
 
 The frontend contains reusable templates such as:
